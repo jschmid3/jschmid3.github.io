@@ -8,3 +8,5 @@ Rocco Schiavone is a detective or be precise: Vice Questore. He has been transfe
 * needs a joint before he starts to work
 * has a dog
 
+Rocco says:
+> Degree of ten
